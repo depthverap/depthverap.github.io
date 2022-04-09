@@ -222,7 +222,7 @@ a:hover {
     }
     #header h1 {
         font-family: 'Courier New', Courier, monospace;
-        font-size: 22pt;
+        font-size: 16pt;
         font-weight: 900;
         color: white;
         padding-bottom: 30px;
@@ -230,7 +230,7 @@ a:hover {
         padding-top: 100px;
     }
     #header p {
-        font-size: 16pt;
+        font-size: 10pt;
         color: white;
         text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);      
     }
@@ -245,7 +245,7 @@ a:hover {
     }
     #ikinci-kisim h1 {
         font-family: 'Courier New', Courier, monospace;
-        font-size: 18pt;
+        font-size: 16pt;
         font-weight: 900;
         color: rgb(0, 0, 0);
         padding-bottom: 30px;
@@ -266,7 +266,7 @@ a:hover {
     }
     #ikinci-kisim p {
         padding-top: 30px;
-        font-size: 12pt;
+        font-size: 8pt;
         color: black;
         text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);
     }
@@ -288,7 +288,7 @@ a:hover {
     .ayrac {
         background-color: rgb(39, 37, 37);
         font-family: 'Courier New', Courier, monospace;
-        font-size: 18pt;
+        font-size: 16pt;
         font-weight: 900;
         color: white;
         text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);
@@ -310,7 +310,7 @@ a:hover {
     }
     #ozet p {
         padding-top: 30px;
-        font-size: 12pt;
+        font-size: 8pt;
         color: black;
         text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);
     }
@@ -324,12 +324,12 @@ a:hover {
         justify-content: center;
         text-align: center;
         width: 100%;
-        font-size: 12pt;
+        font-size: 6pt;
         color: white;
         text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.3);
     }
     footer td {
-        padding: 30px;
+        padding: 10px;
     }
     a {
         text-decoration: none;
@@ -341,11 +341,11 @@ a:hover {
         font-family: 'Courier New', Courier, monospace;
     }
     figure {
-        max-width: 150px;
+        max-width: 100px;
         height: auto;
     }
     img {
-        max-width: 150px;
+        max-width: 100px;
         height: auto;
     }
 }
